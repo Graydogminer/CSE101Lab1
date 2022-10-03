@@ -2,7 +2,7 @@
 ## My name is Marc Reta
 ###### I'm a computer engineering major 
 **This is my 3rd year at UCSD**
-***My professors always tell me** 
+***My professors always tell me*** 
 >start early, start often
 **My favorite git commands are**
 ```
